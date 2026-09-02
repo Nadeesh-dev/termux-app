@@ -17,7 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.viewpager.widget.ViewPager;
 
-import com.termux.R;
+import com.robertthebat.termux.R;
 import com.termux.app.TermuxActivity;
 import com.termux.shared.activity.ActivityUtils;
 import com.termux.shared.data.DataUtils;
