@@ -6,14 +6,7 @@ import android.content.Intent;
 import com.termux.shared.shell.command.ExecutionCommand;
 import com.termux.shared.shell.command.ExecutionCommand.Runner;
 
-import java.io.File;dded `TERMUX_BACKGROUND_DIR_PATH`, `TERMUX_BACKGROUND_DIR`,
-        *          `TERMUX_BACKGROUND_IMAGE_PATH`, `TERMUX_BACKGROUND_IMAGE_FILE`,
-        *           *          `TERMUX_BACKGROUND_IMAGE_PORTRAIT_PATH`, `TERMUX_BACKGROUND_IMAGE_PORTRAIT_FILE`,
-        *            *          `TERMUX_BACKGROUND_IMAGE_LANDSCAPE_PATH`, and `TERMUX_BACKGROUND_IMAGE_LANDSCAPE_FILE`.
-        *             *
-        *              * - 0.53.0 (2025-01-12)
-    *               *      - Renamed `TERMUX_API`, `TERMUX_STYLING`, `TERMUX_TASKER`, `TERMUX_WIDGET` classes with `_APP` suffix added.
-    *                *      - Added `TERMUX_*_MAIN_ACTIVITY_NAME` and `TERMUX_*_LAUNCHER_ACTIVITY_NAME` constants to each app class.
+import java.io.File;
 import java.util.Arrays;
 import java.util.Formatter;
 import java.util.List;
