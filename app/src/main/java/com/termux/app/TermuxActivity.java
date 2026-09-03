@@ -28,7 +28,7 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.robertthebat.termux.R;
+import com.termux.R;
 import com.termux.app.api.file.FileReceiverActivity;
 import com.termux.app.style.TermuxBackgroundManager;
 import com.termux.app.terminal.TermuxActivityRootView;

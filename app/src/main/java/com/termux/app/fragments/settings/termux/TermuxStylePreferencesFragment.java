@@ -10,7 +10,7 @@ import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
 import androidx.preference.SwitchPreferenceCompat;
 
-import com.robertthebat.termux.R;
+import com.termux.R;
 import com.termux.app.style.TermuxBackgroundManager;
 import com.termux.shared.termux.settings.preferences.TermuxAppSharedPreferences;
 
