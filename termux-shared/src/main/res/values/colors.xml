@@ -6,6 +6,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="drawer_background_translucent_light">#CCFFFFFF</color>
+    <color name="drawer_background_translucent_dark">#CC000000</color>
+
     <color name="red_400">#FF0000</color>
     <color name="red_800">#C4001D</color>
 
