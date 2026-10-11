@@ -111,7 +111,7 @@ public class TermuxTerminalViewClient extends TermuxTerminalViewClientBase {
      */
     public void onResume() {
         // Show the soft keyboard if required
-        setSoftKeyboardState(true, mActivity.isActivityRecreated());
+        setSoftKeyboardState(mActivity.isOnResumeAfterOnCreate(), mActivity.isActivityRecreated());
 
         mTerminalCursorBlinkerStateAlreadySet = false;
 
